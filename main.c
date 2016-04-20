@@ -20,6 +20,6 @@ int reverse(int x) {
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("Haha!\n");
     return 0;
 }
